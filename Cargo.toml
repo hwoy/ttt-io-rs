@@ -8,3 +8,7 @@ edition = "2021"
 
 [dependencies]
 ttt-io-sys = { git = "https://github.com/hwoy/ttt-io-sys.git" }
+
+[features]
+default = ["builtin_table"]
+builtin_table = []
