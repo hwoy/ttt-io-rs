@@ -1,7 +1,7 @@
 
 # ttt-io-rs
 
-ttt-sys is just a io wrapper library for Tic-Tac-Toe game in Rust.
+ttt-io-rs is just a io wrapper library for Tic-Tac-Toe game in Rust.
 
 ## How to build
 
